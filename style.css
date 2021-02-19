@@ -1,0 +1,24 @@
+.botao{
+    background-color: #34A1E4;
+    color: white;
+}
+
+.botao:hover{
+    background-color: #4AA8E8;
+}
+
+.titulo{
+    color: white;
+}
+
+.background-titulo{
+    background-color: 44B0F1;
+    padding-top: 5%;
+    padding-bottom: 1%;
+    padding-left: 5em;
+}
+
+.background-menu{
+    background-color: 34A1E4;
+    padding-left: 5em;
+}
